@@ -11,7 +11,7 @@ const showMenu = (toggleId, navId) => {
 };
 showMenu("nav-toggle", "nav-menu");
 
-/*Menyembunyikan Dan Memunculkan Show Menu*/
+/*saat scrool agar tulisan muncul*/
 const navLink = document.querySelectorAll(".nav__link");
 
 function linkAction() {
